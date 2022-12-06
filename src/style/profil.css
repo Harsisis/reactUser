@@ -1,0 +1,17 @@
+
+.user-box{
+    width: fit-content;
+    min-width: 300px;
+    margin: 15px auto;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    text-align: left;
+    padding: 20px
+}
+
+.male{
+    background-color: rgb(120, 217, 167);
+}
+.female{
+    background-color: rgb(99, 164, 220);
+}
